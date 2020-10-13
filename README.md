@@ -37,3 +37,9 @@ or
         'token_prod' => 'token_prod_example',
     ]
 ]
+
+
+Once you have setup the component, you can refer it across your application easily:
+
+$transpay = Yii::$app->transpay;
+$countries = $transpay->getCountries();
