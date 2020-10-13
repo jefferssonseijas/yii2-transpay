@@ -1,0 +1,16 @@
+{
+  "name": "jmsa-developer/yii2-transpay",
+  "type": "library",
+  "description": "A component to communicate with the transpay payment platform",
+  "keywords": ["yii2","component","transpay","api","payments"],
+  "homepage": "https://github.com/jmsa-developer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jeffersson Seijas",
+      "email": "jefferssonseijas@gmail.com",
+      "homepage": "https://github.com/jmsa-developer",
+      "role": "Developer"
+    }
+  ]
+}
